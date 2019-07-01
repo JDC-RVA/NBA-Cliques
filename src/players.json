@@ -4,83 +4,95 @@
     "name": "James Harden",
     "image": "https://png2.kisspng.com/sh/4058e7ba5790b20066654f2b42987f6b/L0KzQYm3VMA6N51tiZH0aYP2gLBuTfhwfaR5h9C2cnBme7b7k71vapIyed51LYP3ccO0hBFubV51gNt1YXTofMHvifEuP2dqRdDrYT3zfLLChgJ0NWZme9Q9Y3LoQIPrUvU4NmI7Sac7OEK8QYa5U8I4OmkATKI6MUaxgLBu/kisspng-houston-rockets-nba-all-star-game-philadelphia-76e-nba-players-5acb4cbe02d2e7.1615282915232728940116.png",
     "occupation": "Head Chef",
-    "team": "Rockets"
+    "team": "Rockets",
+    "count": 0
   },
   {
     "id": 2,
     "name": "Kobe Bryant",
     "image": "http://pluspng.com/img-png/basketball-players-png-hd-10-athlete-png-images-free-cutout-people-for-architecture-landscape-interior-renderings-kobe-bryant-basketball-640.png",
     "occupation": "GOAT II",
-    "team": "Lakers"
+    "team": "Lakers",
+    "count": 0
   },
   {
     "id": 3,
     "name": "Derrick Rose",
     "image": "https://www.pngkey.com/png/full/349-3498647_derrick-roses-mvp-season-highlights-signed-derrick-rose.png",
     "occupation": "PG",
-    "team": "Bulls"
+    "team": "Bulls",
+    "count": 0
   },
   {
     "id": 4,
     "name": "Michael Jordan",
     "image": "http://pluspng.com/img-png/basketball-players-png-hd-michael-jordan-png-hd-400.png",
     "occupation": "GOAT",
-    "team": "Bulls"
+    "team": "Bulls",
+    "count": 0
   },
   {
     "id": 5,
     "name": "Dame Dolla",
     "image": "http://pluspng.com/img-png/basketball-players-png-hd-lillard-png-topaz-by-beastieblake-lillard-png-topaz-by-beastieblake-nba-hd-png-1024.png",
     "occupation": "PG/Rapper",
-    "team": "Blazers"
+    "team": "Blazers",
+    "count": 0
   },
   {
     "id": 6,
     "name": "Kyrie Irving",
     "image": "https://www.sccpre.cat/mypng/full/54-540327_talk-to-nba-all-star-basketball-player.png",
     "occupation": "PG",
-    "team": "Celtics"
+    "team": "Celtics",
+    "count": 0
   },
   {
     "id": 7,
     "name": "Steph Curry",
     "image": "https://www.xyzanews.com/wp-content/uploads/2017/05/Stephen_Curry_2_nobackground-768x859.png",
     "occupation": "Point God",
-    "team": "Warriors"
+    "team": "Warriors",
+    "count": 0
   },
   {
     "id": 8,
     "name": "Kevin Love",
     "image": "https://www.pngkey.com/png/full/263-2635664_love-png-kevin-love-kevin-oleary-nba-players.png",
     "occupation": "PF",
-    "team": "Cavaliers"
+    "team": "Cavaliers",
+    "count": 0
   },
   {
     "id": 9,
     "name": "Queen James",
     "image": "https://www.pngkey.com/png/full/27-277070_lebron-james-in-blue-grey-short-suit-lebron.png",
     "occupation": "Actor",
-    "team": "Lakers"
+    "team": "Lakers",
+    "count": 0
   },
   {
     "id": 10,
     "name": "Chris Paul",
     "image": "https://www.pngkey.com/png/full/230-2302271_chris-paul-2017-analysis-injury-status-visual-gamelog.png",
     "occupation": "PG",
-    "team": "Clippers"
+    "team": "Clippers",
+    "count": 0
   },
   {
     "id": 11,
     "name": "Kevin Durant",
     "image": "https://www.pngkey.com/png/full/167-1675829_kevin-durant-kevin-durant-transparent-warriors.png",
     "occupation": "SF",
-    "team": "Warriors"
+    "team": "Warriors",
+    "count": 0
   },
   {
     "id": 12,
     "name": "Russell Westbrook",
     "image": "https://www.pngkey.com/png/full/128-1283696_russell-westbrook-winner-russell-westbrook-no-background.png",
     "occupation": "PG",
-    "team": "Thunder"
+    "team": "Thunder",
+    "count": 0
   }
 ]
